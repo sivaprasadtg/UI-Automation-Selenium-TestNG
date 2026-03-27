@@ -1,7 +1,7 @@
 # Selenium TestNG Suite
 
 ## Overview
-A simple TestNG-based Selenium test that performs a search on Elgigantan.se.
+A simple TestNG-based Selenium test suite that performs tests on Elgigantan.se.
 
 ## How to Run
 1. Ensure Java and Maven are installed.
